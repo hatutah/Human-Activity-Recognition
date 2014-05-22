@@ -99,6 +99,3 @@ Verbose descriptions of all variables are included in the dataset [README](UCI H
 	- fBodyBodyGyroMag.std..
 	- fBodyBodyGyroJerkMag.mean..
 	- fBodyBodyGyroJerkMag.std..
-
-
-

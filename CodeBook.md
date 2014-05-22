@@ -6,7 +6,7 @@ This project retrieves and transforms UCI's [Human Activity Recognition Using Sm
 
 The R script [run_analysis.R](run_analysis.R) performs the following
 	
-- Downloads and Unzips the [data](https://d396qusza40orc.cloudfront.net/) (*large file) from the course CDN if not found locally
+- Downloads and Unzips the [data](UCI HAR Dataset/) (*large file) from the course CDN if not found locally
 - Loads feature names into memory
 - Loads activity labels into memory
 - Loads observations and subject IDs into memory
@@ -20,7 +20,7 @@ The R script [run_analysis.R](run_analysis.R) performs the following
 
 ### Variable Description
 
-Verbose descriptions of all variables are included in the dataset README.txt. Here is a breakdown of all variables included in the final summary.
+Verbose descriptions of all variables are included in the dataset [README](UCI HAR Dataset/README.txt) Here is a breakdown of all variables included in the final summary.
 
 - Activity Values
 
